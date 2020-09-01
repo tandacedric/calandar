@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "^16.13.1",
+    "@material-ui/pickers": "^3.2.10",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/core": "^4.11.0",
+    "@devexpress/dx-react-scheduler-material-ui": "2.7.1",
+    "@devexpress/dx-react-scheduler": "2.7.1",
+    "@devexpress/dx-react-core": "2.7.1"
+  },
+  "name": "zpfj3",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-webpack": "^2.0.0",
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
